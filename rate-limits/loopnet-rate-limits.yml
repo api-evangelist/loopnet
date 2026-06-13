@@ -1,0 +1,16 @@
+name: LoopNet Rate Limits
+description: LoopNet does not publish a public REST API with documented rate limits. Access to LoopNet data programmatically is available through enterprise agreements with CoStar Group. Rate limits for enterprise data access arrangements are negotiated on a per-client basis and depend on subscription tier and use case. The LoopLink embedded integration does not expose rate-limited API endpoints to end developers. Third-party scraping solutions are prohibited by LoopNet Terms of Use.
+url: https://www.loopnet.com/solutions/LoopNetTerms-of-Use
+notes:
+  - LoopNet does not publicly document API rate limits as no public REST API is available.
+  - Enterprise data access agreements with CoStar Group include custom rate limits defined in the service contract.
+  - LoopLink integration traffic is managed by LoopNet infrastructure with no developer-facing rate limit controls.
+  - Automated scraping of LoopNet is prohibited under their Terms of Use and Terms and Conditions.
+  - For programmatic access inquiries, contact CoStar Group enterprise sales.
+references:
+  - name: LoopNet Terms of Use
+    url: https://www.loopnet.com/solutions/LoopNetTerms-of-Use
+  - name: LoopNet Terms and Conditions
+    url: https://www.loopnet.com/solutions/LoopNetTerms-and-Conditions
+  - name: LoopNet Solutions Overview
+    url: https://www.loopnet.com/solutions/

@@ -1,0 +1,29 @@
+name: LoopNet FinOps
+description: Financial operations and cost management guidance for LoopNet commercial real estate platform usage. LoopNet pricing is subscription-based for listing visibility tiers, with enterprise data access costs negotiated directly with CoStar Group. There are no usage-based API call charges for the standard listing platform; costs are driven by listing tier selection and duration.
+url: https://www.loopnet.com/solutions/ad-packages/silver-listing-plan
+costDrivers:
+  - name: Listing Plan Tier
+    description: Primary cost driver is the selected listing visibility tier (Silver, Platinum, Diamond). Higher tiers deliver greater exposure and placement but cost more per listing.
+    type: Fixed Subscription
+  - name: Number of Listings
+    description: Silver plans support up to 10 listings. Additional listings or higher volumes require custom enterprise agreements.
+    type: Volume Based
+  - name: Enterprise Data Access
+    description: Programmatic data access via CoStar Group enterprise agreements introduces additional costs based on data volume, geographic scope, property types, and update frequency negotiated in the contract.
+    type: Negotiated Enterprise Contract
+  - name: LoopLink Integration
+    description: LoopLink embedded search integration for websites may include setup and ongoing subscription fees negotiated with LoopNet account executives.
+    type: Negotiated Subscription
+optimizationTips:
+  - Consolidate listings under a single account to maximize volume discounts and simplify billing.
+  - Evaluate which property types and geographies generate the most qualified leads before upgrading listing tiers.
+  - For enterprise data access, define the minimum geographic scope and property types needed to control contract costs.
+  - Review listing performance analytics regularly to identify and downgrade underperforming listings to lower tiers.
+  - Use LoopLink for brokerage website integration to avoid redundant listing management costs across platforms.
+references:
+  - name: LoopNet Solutions Overview
+    url: https://www.loopnet.com/solutions/
+  - name: Silver Listing Plan
+    url: https://www.loopnet.com/solutions/ad-packages/silver-listing-plan
+  - name: LoopLink for Brokers and Owners
+    url: https://www.loopnet.com/solutions/ad-packages/looplink-for-brokers-and-owners

@@ -1,0 +1,61 @@
+aid: loopnet
+name: LoopNet
+description: LoopNet is the leading commercial real estate marketplace, owned by CoStar Group, offering access to property listings, sale comparables, lease rates, market analytics, and CRE investment data. Brokers, owners, and investors use LoopNet to market and discover office, retail, industrial, multifamily, land, and hospitality properties across the US, Canada, and the UK. Integration is available via LoopLink for embedding property search on third-party websites, and data access for enterprise clients is arranged through CoStar Group agreements.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: https://raw.githubusercontent.com/api-evangelist/loopnet/refs/heads/main/apis.yml
+created: '2026-06-13'
+modified: '2026-06-13'
+specificationVersion: '0.19'
+tags:
+  - Commercial Real Estate
+  - Property Listings
+  - CRE
+  - Real Estate
+  - Market Analytics
+  - CoStar
+  - Lease Rates
+  - Sale Comparables
+apis:
+  - aid: loopnet:loopnet-listings-api
+    name: LoopNet Listings API
+    description: Access commercial real estate property listings including office, retail, industrial, multifamily, land, and hospitality properties for sale and lease across the US, Canada, and UK. Data includes property details, lease rates, sale prices, cap rates, NOI, building class, square footage, zoning, broker information, and geolocation coordinates.
+    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    humanURL: https://www.loopnet.com/solutions/
+    baseURL: https://api.loopnet.com
+    tags:
+      - Commercial Real Estate
+      - Property Listings
+      - Lease Rates
+      - Sale Comparables
+      - Market Data
+    properties:
+      - type: Documentation
+        url: https://www.loopnet.com/solutions/
+      - type: Website
+        url: https://www.loopnet.com/
+common:
+  - type: Website
+    url: https://www.loopnet.com/
+  - type: Documentation
+    url: https://www.loopnet.com/solutions/
+  - type: GitHubOrg
+    url: https://github.com/loopnet
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/loopnet
+  - type: Blog
+    url: https://www.loopnet.com/learn/
+  - type: Pricing
+    url: https://www.loopnet.com/solutions/ad-packages/silver-listing-plan
+  - type: StatusPage
+    url: https://loopservice.statuspage.io/
+  - type: X
+    url: https://x.com/loopnet
+  - type: Plans
+    url: plans/loopnet-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/loopnet-rate-limits.yml
+  - type: FinOps
+    url: finops/loopnet-finops.yml
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

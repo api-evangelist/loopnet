@@ -1,0 +1,46 @@
+name: LoopNet Plans and Pricing
+description: LoopNet offers subscription-based listing plans for commercial real estate brokers, owners, and investors. Plans are tiered by listing visibility level (Silver, Platinum, Diamond) and provide exposure on LoopNet and the broader CoStar network reaching over 13 million monthly visitors. Enterprise data access and API integrations are negotiated directly with CoStar Group.
+url: https://www.loopnet.com/solutions/ad-packages/silver-listing-plan
+plans:
+  - name: Silver Listing Plan
+    description: Entry-level listing plan providing basic visibility for commercial property listings on LoopNet and affiliated CoStar network sites. Suitable for individual brokers and smaller portfolios.
+    url: https://www.loopnet.com/solutions/ad-packages/silver-listing-plan
+    features:
+      - Commercial property listing on LoopNet
+      - Visibility on CoStar network of sites
+      - Up to 10 Silver-level listings per plan
+      - Reach 13 million monthly unique visitors
+  - name: Platinum Listing Plan
+    description: Mid-tier listing plan offering enhanced exposure and premium placement for commercial real estate listings.
+    url: https://www.loopnet.com/solutions/
+    features:
+      - Enhanced listing visibility
+      - Priority placement in search results
+      - Access to LoopNet analytics
+      - CoStar network syndication
+  - name: Diamond Listing Plan
+    description: Top-tier listing plan with maximum exposure, featuring premium placement and advanced marketing tools for high-value commercial properties.
+    url: https://www.loopnet.com/solutions/
+    features:
+      - Maximum listing visibility and placement
+      - Featured property promotions
+      - Advanced analytics and reporting
+      - Full CoStar network syndication
+      - Dedicated account support
+  - name: LoopLink Integration
+    description: Embedded property search technology for brokers, owners, and Economic Development Corporations to power CRE search on their own websites. Listings managed centrally and synced to LoopNet and CoStar.
+    url: https://www.loopnet.com/solutions/ad-packages/looplink-for-brokers-and-owners
+    features:
+      - Branded property search widget for your website
+      - Centralized listing management across CoStar and LoopNet
+      - Maintenance-free property search interface
+      - Real-time listing sync
+  - name: Enterprise Data Access
+    description: Enterprise-level data feed and API access negotiated directly with CoStar Group for large brokerages, PropTech companies, and institutional investors requiring programmatic access to LoopNet listing data.
+    url: https://www.loopnet.com/solutions/
+    features:
+      - Programmatic access to listing data
+      - Sale comparables and lease rate data
+      - Market analytics and investment data
+      - Custom authentication and rate limit agreements
+      - Direct CoStar Group support
