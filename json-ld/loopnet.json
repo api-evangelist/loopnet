@@ -1,0 +1,99 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "aid": "https://apis.io/vocab/aid",
+    "baseURL": "https://apis.io/vocab/baseURL"
+  },
+  "@type": "Organization",
+  "@id": "https://www.loopnet.com/",
+  "aid": "loopnet",
+  "name": "LoopNet",
+  "description": "LoopNet is the leading commercial real estate marketplace, owned by CoStar Group, offering access to property listings, sale comparables, lease rates, market analytics, and CRE investment data. Brokers, owners, and investors use LoopNet to market and discover office, retail, industrial, multifamily, land, and hospitality properties across the US, Canada, and the UK.",
+  "url": "https://www.loopnet.com/",
+  "logo": "https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg",
+  "sameAs": [
+    "https://www.linkedin.com/company/loopnet",
+    "https://x.com/loopnet",
+    "https://github.com/loopnet"
+  ],
+  "knowsAbout": [
+    "Commercial Real Estate",
+    "Property Listings",
+    "Lease Rates",
+    "Sale Comparables",
+    "Market Analytics",
+    "CRE Investment Data",
+    "Office Properties",
+    "Retail Properties",
+    "Industrial Properties",
+    "Multifamily Properties",
+    "Land",
+    "Hospitality Properties"
+  ],
+  "parentOrganization": {
+    "@type": "Organization",
+    "name": "CoStar Group",
+    "url": "https://www.costargroup.com/"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "LoopNet Solutions",
+    "url": "https://www.loopnet.com/solutions/",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "name": "LoopLink",
+        "description": "Embed LoopNet property search on third-party websites."
+      },
+      {
+        "@type": "Offer",
+        "name": "Enterprise Data Access",
+        "description": "Data access for enterprise clients arranged through CoStar Group agreements."
+      }
+    ]
+  },
+  "areaServed": [
+    {
+      "@type": "Country",
+      "name": "United States"
+    },
+    {
+      "@type": "Country",
+      "name": "Canada"
+    },
+    {
+      "@type": "Country",
+      "name": "United Kingdom"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "url": "https://www.loopnet.com/"
+  },
+  "potentialAction": [
+    {
+      "@type": "SearchAction",
+      "name": "Search Commercial Real Estate Listings",
+      "target": "https://www.loopnet.com/search/commercial-real-estate/usa/for-sale/"
+    }
+  ],
+  "subjectOf": [
+    {
+      "@type": "WebAPI",
+      "aid": "loopnet:loopnet-listings-api",
+      "name": "LoopNet Listings API",
+      "description": "Access commercial real estate property listings including office, retail, industrial, multifamily, land, and hospitality properties for sale and lease across the US, Canada, and UK. Data includes property details, lease rates, sale prices, cap rates, NOI, building class, square footage, zoning, broker information, and geolocation coordinates.",
+      "baseURL": "https://api.loopnet.com",
+      "documentation": "https://www.loopnet.com/solutions/",
+      "keywords": [
+        "Commercial Real Estate",
+        "Property Listings",
+        "Lease Rates",
+        "Sale Comparables",
+        "Market Data"
+      ]
+    }
+  ],
+  "dateCreated": "2026-06-13",
+  "dateModified": "2026-06-13"
+}
