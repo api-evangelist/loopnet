@@ -1,7 +1,7 @@
 aid: loopnet
 name: LoopNet
 description: LoopNet is the leading commercial real estate marketplace, owned by CoStar Group, offering access to property listings, sale comparables, lease rates, market analytics, and CRE investment data. Brokers, owners, and investors use LoopNet to market and discover office, retail, industrial, multifamily, land, and hospitality properties across the US, Canada, and the UK. Integration is available via LoopLink for embedding property search on third-party websites, and data access for enterprise clients is arranged through CoStar Group agreements.
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/api-evangelist/loopnet/refs/heads/main/apis.yml
 created: '2026-06-13'
 modified: '2026-06-13'
@@ -19,7 +19,7 @@ apis:
   - aid: loopnet:loopnet-listings-api
     name: LoopNet Listings API
     description: Access commercial real estate property listings including office, retail, industrial, multifamily, land, and hospitality properties for sale and lease across the US, Canada, and UK. Data includes property details, lease rates, sale prices, cap rates, NOI, building class, square footage, zoning, broker information, and geolocation coordinates.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.loopnet.com/solutions/
     baseURL: https://api.loopnet.com
     tags:
