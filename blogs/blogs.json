@@ -4,18 +4,16 @@
   "description": "Blog posts and articles from LoopNet covering commercial real estate news, market analytics, investment data, and property listing guidance.",
   "url": "https://www.loopnet.com/learn/",
   "created": "2026-06-13",
-  "modified": "2026-06-13",
+  "modified": "2026-06-21",
   "posts": [],
   "repo": "loopnet",
   "feeds": [
     {
-      "source": "https://www.linkedin.com/company/loopnet",
-      "feed_url": "https://www.linkedin.com/company/loopnet",
-      "title": "",
+      "source": "https://www.loopnet.com/learn/",
       "saved": 0,
-      "method": "none"
+      "error": "HTTP 403 Forbidden"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-06-14T20:42:17Z"
+  "fetched": "2026-06-27T12:53:02Z"
 }
