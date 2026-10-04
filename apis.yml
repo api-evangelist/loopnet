@@ -33,7 +33,7 @@ tags:
   - Commercial Real Estate
   - Property Listings
   - CRE
-  - Real-Estate
+  - Real Estate
   - Market Analytics
   - CoStar
   - Lease Rates
@@ -47,6 +47,7 @@ tags_raw:
   - CoStar
   - Lease Rates
   - Sale Comparables
+  - Real-Estate
 apis:
   - aid: loopnet:loopnet-listings-api
     name: LoopNet Listings API
