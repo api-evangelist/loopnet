@@ -1,3 +1,7 @@
+# Provenance stamped 2026-10-07 (roadmap#943): written by an API Evangelist sweep (undated — the file carries no date and git cannot supply one), not
+# harvested from the provider. `method: generated` so the economics campaign may replace it with a
+# dated, verbatim transcription; every figure below is unverified until it does.
+method: generated
 name: LoopNet Rate Limits
 description: LoopNet does not publish a public REST API with documented rate limits. Access to LoopNet data programmatically is available through enterprise agreements with CoStar Group. Rate limits for enterprise data access arrangements are negotiated on a per-client basis and depend on subscription tier and use case. The LoopLink embedded integration does not expose rate-limited API endpoints to end developers. Third-party scraping solutions are prohibited by LoopNet Terms of Use.
 url: https://www.loopnet.com/solutions/LoopNetTerms-of-Use

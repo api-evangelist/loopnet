@@ -1,3 +1,7 @@
+# Provenance stamped 2026-10-07 (roadmap#943): written by an API Evangelist sweep (undated — the file carries no date and git cannot supply one), not
+# harvested from the provider. `method: generated` so the economics campaign may replace it with a
+# dated, verbatim transcription; every figure below is unverified until it does.
+method: generated
 name: LoopNet Plans and Pricing
 description: LoopNet offers subscription-based listing plans for commercial real estate brokers, owners, and investors. Plans are tiered by listing visibility level (Silver, Platinum, Diamond) and provide exposure on LoopNet and the broader CoStar network reaching over 13 million monthly visitors. Enterprise data access and API integrations are negotiated directly with CoStar Group.
 url: https://www.loopnet.com/solutions/ad-packages/silver-listing-plan
