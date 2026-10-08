@@ -48,3 +48,39 @@ plans:
       - Market analytics and investment data
       - Custom authentication and rate limit agreements
       - Direct CoStar Group support
+x-canonical:
+  generated: '2026-10-08'
+  vocabulary: all/0-working/economics/plans-canonical.yml
+  models: []
+  units: []
+  plans:
+  - name: Silver Listing Plan
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods: []
+  - name: Platinum Listing Plan
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods: []
+  - name: Diamond Listing Plan
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods: []
+  - name: LoopLink Integration
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods: []
+  - name: Enterprise Data Access
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods: []
